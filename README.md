@@ -9,6 +9,7 @@ I'm a Computer Science student at Minnesota State University Mankato, graduating
 - **Tools:** Git, GitHub, Cursor
 
 ### Featured Projects
+The source code for these applications cannot be shared in their entirety, but some examples and projects overviews are available.
 - **Program Market Research Application:** Team lead on a full-stack application built to automate academic program market research.
 - **Program Review & Planning Application:** Database and backend engineering for a university resource planning application.
 - **Campfire Music Platform:** Frontend development for a nonprofit music platform using React.
